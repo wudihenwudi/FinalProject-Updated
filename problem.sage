@@ -53,6 +53,7 @@ def median(values):
     return median
 median = median(valuelist)
 print median
-    return points
+    
 
 gen_points(10,3,0,4)
+
